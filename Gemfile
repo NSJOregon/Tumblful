@@ -15,8 +15,8 @@ group :production do
   gem 'rails_12factor'
 end
 
- gem 'faker'
- 
+ gem 'ffaker'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
